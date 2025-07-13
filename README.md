@@ -4,4 +4,5 @@ This repository contains the dataset collected from a survey conducted among 143
 
 The dataset includes raw survey responses, along with calculated average scores based on a five-point Likert scale. It is designed to facilitate further analysis and research on the effects of Large Language Models on learning burnout. The dataset is publicly available for access and download at this link. It can be freely used for academic research and further study.
 
-Once the paper titled “Mitigating Learning Burnout Caused by Generative Artificial Intelligence Misuse in Higher Education: A Case Study in Programming Language Teaching” is accepted and published, additional details and the complete analysis will be made publicly available.
+The paper titled “Mitigating Learning Burnout Caused by Generative Artificial Intelligence Misuse in Higher Education: A Case Study in Programming Language Teaching” has been published. For more details and the complete analysis, please refer to the paper:
+Dong X, Wang Z, Han S. Mitigating Learning Burnout Caused by Generative Artificial Intelligence Misuse in Higher Education: A Case Study in Programming Language Teaching [C] // Informatics. MDPI, 2025, 12(2): 51.
