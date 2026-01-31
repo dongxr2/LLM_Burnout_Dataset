@@ -6,4 +6,4 @@ The dataset includes raw survey responses, along with calculated average scores 
 
 The paper titled “Mitigating Learning Burnout Caused by Generative Artificial Intelligence Misuse in Higher Education: A Case Study in Programming Language Teaching” has been published. For more details and the complete analysis, please refer to the paper:
 
-Dong X, Wang Z, Han S. Mitigating Learning Burnout Caused by Generative Artificial Intelligence Misuse in Higher Education: A Case Study in Programming Language Teaching [C] // Informatics. MDPI, 2025, 12(2): 51.
+Dong, X.; Wang, Z.; Han, S. Mitigating Learning Burnout Caused by Generative Artificial Intelligence Misuse in Higher Education: A Case Study in Programming Language Teaching. Informatics 2025, 12, 51. https://doi.org/10.3390/informatics12020051
